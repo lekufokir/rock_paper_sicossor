@@ -53,3 +53,4 @@ const playGame = () => {
   console.log(determineWinner(userChoice, computerChoice));
 }
 playGame();
+//This is commit comment
